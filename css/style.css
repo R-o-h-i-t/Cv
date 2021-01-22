@@ -1,0 +1,50 @@
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 200px
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 35;
+}
+
+h3{
+  font-family: 'Montserrat' , sans-serif;
+}
+
+h2{
+  font-family: 'Happy Monkey', cursive;
+}
+
+.cloud-1{
+  position: absolute;
+  right: 350px;
+  top: 110px;
+}
+
+.cloud-2{
+  position: absolute;
+  top: 300px;
+  left: 350px;
+}
+
+.mountain{
+}
+
+.middle-container{
+}
+
+
+.bottom-container{
+
+}
+.profile{
+  padding: 50px;
+}
